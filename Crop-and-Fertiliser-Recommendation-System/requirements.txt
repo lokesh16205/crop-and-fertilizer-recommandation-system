@@ -1,7 +1,7 @@
-pip install streamlit
-pip install joblib
-pip install numpy
-pip install google-generativeai
-pip install Pillow
-pip install pytesseract
-pip install pdf2image
+streamlit
+joblib
+numpy
+google-generativeai
+Pillow
+pytesseract
+pdf2image
